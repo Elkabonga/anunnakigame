@@ -71,11 +71,7 @@ body {
 
 @media screen and (max-width: 710px) {
   a {
-    width: 100%;;
-  }
-
-  href {
-    width: 100%;;
+    width: 100%;
   }
   
   .button {
@@ -87,11 +83,12 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 40px;
   width: 100%;
   color: white;
   background-color: #8c203a;
   font-size: 12px;
+  padding: 10px 0px;
+  margin-top: 10px;
 }
 
 href {
